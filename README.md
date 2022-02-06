@@ -2,7 +2,7 @@
 
 ### Overview of the Analysis 
 
-In this analysis, Charity data from the organization alphabet Soup was examned and analyzed in order to create a model that would help predict the performance or success of charitable donations using deep-learning neural networks with the TensorFlow platform in Python. This analysis was executed using **Data Preprocessing**, **Compiling, Training, and Evaluating the Model**, and optimized for performance.
+In this analysis, Charity data from the organization alphabet Soup was examned and analyzed in order to create a model that would help predict the performance or success of charitable donations using deep-learning neural networks with the TensorFlow platform in Python. This analysis was executed using **Data Preprocessing**, **Compiling, Training, and Evaluating the Model**, and then we optimized for performance.
 
 ### Results 
 
